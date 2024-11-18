@@ -1,4 +1,3 @@
 ﻿# DjangoFullStack
 
-
 Django App 
