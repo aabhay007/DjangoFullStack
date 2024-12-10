@@ -1,3 +1,3 @@
 ﻿# DjangoFullStack
 
-Django App 
+Django App for test only
